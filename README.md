@@ -2,7 +2,7 @@
 
 <img width="1680" alt="preview" src="https://github.com/vanakun/PAB_Aktivitas1/assets/49799910/2b4de0aa-85f3-4553-8917-0b40fdfa7ac0">
 
-A new Flutter project.
+Soal Praktikum Aktivitas 1.
 
 ## Getting Started
 
